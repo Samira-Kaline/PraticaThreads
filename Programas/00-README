@@ -1,0 +1,9 @@
+Arquivos com a prática para os alunos medirem quanto um algoritmo melhora quando adicionamos threads.
+Implementados: 	quickSortSimples.c, 
+		quickSortSimples.py, 
+		quickSortThreads.c, 
+		sort.py, 
+		quickSortThreads.py (não disponível aos alunos)
+
+gerador.c: 		gera a entrada de dados para os programas
+quickSortSimples.java: 	implementado apenas a entrada de dados
